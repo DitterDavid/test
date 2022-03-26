@@ -1,0 +1,25 @@
+ @Test
+    public void ShouldNight_time()
+    cuando el usuario ingresa la hora numero 4
+    el programa debe arrojar el resultado Ningth
+
+------------------------------------------------------
+   @Test
+        public void ShouldMorning_time ()
+        cuando el usuario ingresa la hora numero 9
+            el programa debe arrojar el resultado Morning
+-----------------------------------------------------------------
+   @test
+   public void invai_time ()
+   cuando el usuario ingresa 30 el programa debe de
+   arrojar invalid_hour
+------------------------------------------------------------------
+@Test
+  public void ShouldAfternoon_time ()
+   cuando el usuario ingresa la hora numero 13
+              el programa debe arrojar el resultado Afternoon
+----------------------------------------------------------------
+ @Test
+   public void  ShouldEvening_time ()
+   cuando el usuario ingresa la hora numero 20
+               el programa debe arrojar el resultado Evening
